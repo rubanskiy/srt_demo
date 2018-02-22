@@ -1,7 +1,0 @@
-
-PUBLIC HEADERS
-win/wintime.h
-win/syslog_defs.h
-
-SOURCES
-win_time.cpp

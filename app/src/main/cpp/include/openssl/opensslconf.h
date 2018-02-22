@@ -116,8 +116,8 @@ extern "C" {
 
 #if !(defined(VMS) || defined(__VMS)) /* VMS uses logical names instead */
 #if defined(HEADER_CRYPTLIB_H) && !defined(OPENSSLDIR)
-#define ENGINESDIR "/home/baron/arm64-v8a/lib/engines"
-#define OPENSSLDIR "/home/baron/arm64-v8a"
+#define ENGINESDIR "/home/alex/srt-dev/docs/Android/arm64-v8a/lib/engines"
+#define OPENSSLDIR "/home/alex/srt-dev/docs/Android/arm64-v8a"
 #endif
 #endif
 

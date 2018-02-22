@@ -1,7 +1,7 @@
 #include <jni.h>
 #include <string>
 #include <android/log.h>
-#include <srt/srtcore/srt.h>
+#include <srt/srt.h>
 
 #define  LOG_TAG    "SRTClient"
 
